@@ -2,10 +2,10 @@
 
 # บันทึกการใช้ prompt
 
-**ชื่อ / รหัสนิสิต:**
-**agent ที่ใช้:** เช่น GitHub Copilot (Agent mode), Gemini Code Assist, Gemini CLI, Claude Code, Codex, Cursor, Cline: …
-**โมเดล:** …
-**แพ็กเกจที่ใช้:** เช่น Copilot Student, Copilot Free, Gemini รุ่นฟรี: …
+**ชัชชัย ปานปรีดา / 6870054321:**
+**agent ที่ใช้:** Claude Code CLI, Cursor
+**โมเดล:** Claude Opus 5.5
+**แพ็กเกจที่ใช้:** Claude Pro
 
 บันทึกทุกคำขอที่ส่งให้ agent ช่อง "ไฟล์ที่ agent อ่าน" คือไฟล์ที่ agent รายงาน หรือที่นิสิตเห็นว่า agent เปิด
 
